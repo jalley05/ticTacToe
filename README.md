@@ -18,3 +18,6 @@ The game is coordinate based with 0,0 being the top left.
 ## Summary
 I'm new to rust and just getting to know the language. I'm sure there
 are plenty of areas of improvement. This was a fun little project.
+
+## Screenshot
+<img width="394" alt="ticTacToeScreen" src="https://user-images.githubusercontent.com/3308130/72455327-6ac2ab00-3777-11ea-8459-21288657255a.png">
